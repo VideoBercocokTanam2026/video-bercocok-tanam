@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://username.github.io/video-bercocok-tanam/sitemap.xml
