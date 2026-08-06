@@ -7,7 +7,8 @@
     "video": "https://drive.google.com/file/d/1A2B3C4D5E6F7G8H9I0J/preview",
     "description": "Tutorial lengkap menanam cabai rawit dari proses penyemaian biji, pemindahan bibit, perawatan harian, hingga masa panen pertama. Cocok untuk pemula yang baru mulai bercocok tanam di rumah.",
     "category": "Sayuran",
-    "popular": true
+    "popular": true,
+    "orientation": "landscape"
   },
   {
     "id": "merawat-tomat",
@@ -17,7 +18,8 @@
     "video": "https://drive.google.com/file/d/2B3C4D5E6F7G8H9I0J1K/preview",
     "description": "Tips pemupukan, penyiraman, dan pemangkasan tunas air agar tanaman tomat tumbuh sehat dan menghasilkan buah yang lebat serta manis.",
     "category": "Sayuran",
-    "popular": true
+    "popular": true,
+    "orientation": "landscape"
   },
   {
     "id": "panen-bayam",
@@ -27,7 +29,8 @@
     "video": "https://drive.google.com/file/d/3C4D5E6F7G8H9I0J1K2L/preview",
     "description": "Dokumentasi panen bayam hijau yang ditanam di polybag selama 21 hari, lengkap dengan tips agar daun bayam tumbuh lebar dan tidak berserat.",
     "category": "Sayuran",
-    "popular": false
+    "popular": false,
+    "orientation": "portrait"
   },
   {
     "id": "hidroponik-rumahan",
@@ -37,6 +40,7 @@
     "video": "https://drive.google.com/file/d/4D5E6F7G8H9I0J1K2L3M/preview",
     "description": "Panduan membuat instalasi hidroponik sistem wick sederhana menggunakan botol bekas, cocok untuk lahan sempit di perkotaan.",
     "category": "Hidroponik",
-    "popular": true
+    "popular": true,
+    "orientation": "landscape"
   }
 ]

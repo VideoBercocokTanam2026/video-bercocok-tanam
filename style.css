@@ -184,6 +184,13 @@ main { max-width: 1200px; margin: 0 auto; padding: 24px 20px 8px; }
   border-radius: var(--radius-md);
   overflow: hidden;
   box-shadow: var(--shadow-md);
+  transition: aspect-ratio var(--transition), max-width var(--transition);
+}
+/* Video vertikal (portrait): wadah lebih ramping & tinggi, dipusatkan */
+.player-wrap.is-portrait {
+  aspect-ratio: 9 / 16;
+  max-width: 420px;
+  margin: 0 auto;
 }
 .video-frame { width: 100%; height: 100%; border: 0; }
 

@@ -212,6 +212,9 @@
     els.playerError.hidden = true;
     els.playerSkeleton.hidden = false;
 
+    const wrap = els.player.closest(".player-wrap");
+    wrap.classList.toggle("is-portrait", video.orientation === "portrait");
+
     els.player.onload = () => {
       els.playerSkeleton.hidden = true;
       els.player.hidden = false;

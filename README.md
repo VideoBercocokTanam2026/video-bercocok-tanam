@@ -90,6 +90,7 @@ Keterangan field:
 | `description` | Ya    | Deskripsi video yang tampil di bawah player.                              |
 | `category`    | Tidak | Label kategori (opsional, tampil sebagai badge).                          |
 | `popular`     | Tidak | `true`/`false`, menentukan tampil di sidebar "Video Populer".            |
+| `orientation` | Tidak | `"landscape"` (default) atau `"portrait"`. Isi `"portrait"` untuk video vertikal (misalnya hasil rekam HP tegak) agar wadah pemutar otomatis menyesuaikan jadi ramping & tinggi, bukan dipaksa 16:9 dengan bar hitam besar di kiri-kanan. |
 
 ### Cara Mendapatkan Link Google Drive Format `/preview`
 
