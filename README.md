@@ -59,7 +59,7 @@ Lalu buka `http://localhost:8000` di browser.
 3. Pada **Source**, pilih branch `main` dan folder `/root`, lalu klik **Save**.
 4. Tunggu beberapa menit, website akan aktif di:
    `https://USERNAME.github.io/video-bercocok-tanam/`
-5. Perbarui semua URL placeholder (`https://username.github.io/video-bercocok-tanam/`) di `index.html`, `robots.txt`, dan `sitemap.xml` agar sesuai dengan URL asli Anda.
+5. Perbarui semua URL placeholder (`https://videobercocoktanam2026.github.io/video-bercocok-tanam/`) di `index.html`, `robots.txt`, dan `sitemap.xml` agar sesuai dengan URL asli Anda.
 
 ## Cara Menambah Video Baru
 
